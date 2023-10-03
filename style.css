@@ -8,6 +8,7 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 font-family: 'Lato', sans-serif;
+outline: none;
 }
 
 @media screen and (max-width: 600px){
@@ -328,7 +329,7 @@ font-family: 'Lato', sans-serif;
 
 @media screen and (min-width: 1200px){
     html, body {
-        background-image: url('https://images4.alphacoders.com/130/1301436.jpg');
+        background-image: url('./imagens/trevo.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -390,7 +391,7 @@ font-family: 'Lato', sans-serif;
         font-weight: 600;
         display: block;
         margin: 20px auto;
-        padding: 3px 7px;
+        padding: 5px 8px;
         border: none;
         border-radius: 5px;
         }
